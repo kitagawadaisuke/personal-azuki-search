@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T03:51:48",
+  "generated_at": "2026-06-26T06:34:12",
   "source": "tokyofukubukuro.com weekly + NHK公式 (api.web.nhk)",
   "broadcast_meta": {
     "okaasan": {
@@ -2444,7 +2444,7 @@
       "id": 10054,
       "show": "okaasan",
       "title": "ひめうみがめ",
-      "corner": "アニメ",
+      "corner": "コーナー",
       "date": "2026-06-19",
       "airtime": "07:45",
       "offset": "",
@@ -2455,7 +2455,7 @@
       "snippet": "",
       "snippets": [],
       "theme": "",
-      "subcategory": "インターミッション > アニメーション",
+      "subcategory": "インターミッション > 自然の映像",
       "characters": []
     },
     {
