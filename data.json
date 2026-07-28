@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T02:36:08",
+  "generated_at": "2026-07-28T05:28:36",
   "source": "tokyofukubukuro.com weekly + NHK公式 (api.web.nhk)",
   "broadcast_meta": {
     "okaasan": {
@@ -210,6 +210,14 @@
         "broadcastEventId": "e1-130-2026080424670",
         "startDate": "2026-08-04T07:45:00+09:00",
         "source": "nhk"
+      },
+      "2026-08-03": {
+        "description": "",
+        "episodeName": "おかあさんといっしょ",
+        "tvEpisodeId": "9PG51Z14RM",
+        "broadcastEventId": "e1-130-2026080324296",
+        "startDate": "2026-08-03T07:45:00+09:00",
+        "source": "nhk"
       }
     },
     "inai": {
@@ -411,6 +419,14 @@
         "tvEpisodeId": "M8MZ7LQM1J",
         "broadcastEventId": "e1-130-2026080424673",
         "startDate": "2026-08-04T08:10:00+09:00",
+        "source": "nhk"
+      },
+      "2026-08-03": {
+        "description": "【出演】チョー，武石桜華，【声】齋藤彩夏",
+        "episodeName": "いないいないばあっ！　月曜日",
+        "tvEpisodeId": "8MJ5Z2Q3Z8",
+        "broadcastEventId": "e1-130-2026080324299",
+        "startDate": "2026-08-03T08:10:00+09:00",
         "source": "nhk"
       }
     }
