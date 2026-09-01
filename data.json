@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:25:17",
+  "generated_at": "2026-09-01T00:42:11",
   "source": "tokyofukubukuro.com weekly + NHK公式 (api.web.nhk)",
   "broadcast_meta": {
     "okaasan": {
@@ -9,14 +9,6 @@
         "tvEpisodeId": "RK111Z66QG",
         "broadcastEventId": "e1-130-2026080424670",
         "startDate": "2026-08-04T07:45:00+09:00",
-        "source": "nhk"
-      },
-      "2026-08-03": {
-        "description": "広場に遊びにきたおともだちといっしょに歌うのは「山の音楽家」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、個性豊かななかまたちが出てくる「こんなこいるかな」、さいころであそぶ「ファンファンコロリンパ」、生活習慣を歌で楽しく身につける「ぱくぱくるんるん」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！",
-        "episodeName": "おかあさんといっしょ　月曜日",
-        "tvEpisodeId": "9PG51Z14RM",
-        "broadcastEventId": "e1-130-2026080324296",
-        "startDate": "2026-08-03T07:45:00+09:00",
         "source": "nhk"
       },
       "2026-08-05": {
@@ -220,11 +212,19 @@
         "source": "nhk"
       },
       "2026-09-01": {
-        "description": "広場に遊びにきたおともだちといっしょに歌うのは「あくびがビブベバ」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、個性豊かななかまたちが出てくる「こんなこいるかな」、おともだちとかっこいいポーズを探す「さすらいのポーズマン」、生活習慣を歌で楽しく身につける「てーを！」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！",
-        "episodeName": "おかあさんといっしょ　火曜日",
+        "description": "広場に遊びにきたおともだちといっしょに歌うのは「あくびがビブベバ」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、個性豊かななかまたちが出てくる「こんなこいるかな」、おともだちとかっこいいポーズを探す「さすらいのポーズマン」、生活習慣を歌で楽しく身につける「てーを！」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！\n---\n広場に遊びにきたおともだちといっしょに歌うのは「あくびがビブベバ」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、個性豊かななかまたちが出てくる「こんなこいるかな」、おともだちとかっこいいポーズを探す「さすらいのポーズマン」、生活習慣を歌で楽しく身につける「てーを！」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！",
+        "episodeName": "おかあさんといっしょ　火曜日 / おかあさんといっしょ　火曜日",
         "tvEpisodeId": "RK111Z66QG",
         "broadcastEventId": "e1-130-2026090107104",
         "startDate": "2026-09-01T07:45:00+09:00",
+        "source": "nhk"
+      },
+      "2026-09-08": {
+        "description": "広場に遊びにきたおともだちといっしょに歌うのは「すきすき！ナットウスキー」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、個性豊かななかまたちが出てくる「こんなこいるかな」、おともだちとかっこいいポーズを探す「さすらいのポーズマン」、生活習慣を歌で楽しく身につける「てーを！」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！",
+        "episodeName": "おかあさんといっしょ　火曜日",
+        "tvEpisodeId": "VI7ZQ3AG1U",
+        "broadcastEventId": "e1-130-2026090811258",
+        "startDate": "2026-09-08T07:45:00+09:00",
         "source": "nhk"
       }
     },
@@ -235,14 +235,6 @@
         "tvEpisodeId": "M8MZ7LQM1J",
         "broadcastEventId": "e1-130-2026080424673",
         "startDate": "2026-08-04T08:10:00+09:00",
-        "source": "nhk"
-      },
-      "2026-08-03": {
-        "description": "たくさん歌をうたうよ。「ねこねこしゃんしゃん」、「かんぱーい！！」、「ブルンブルンバン！」。みんなもいっしょに歌って踊ろう。▼童謡「きんぎょのひるね」、▼アニメ「おうちゃんのかたち〜くも」、▼たいそう「ピカピカブ〜！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。",
-        "episodeName": "いないいないばあっ！　月曜日",
-        "tvEpisodeId": "8MJ5Z2Q3Z8",
-        "broadcastEventId": "e1-130-2026080324299",
-        "startDate": "2026-08-03T08:10:00+09:00",
         "source": "nhk"
       },
       "2026-08-05": {
@@ -374,8 +366,8 @@
         "source": "nhk"
       },
       "2026-09-01": {
-        "description": "きょうは、茶色まつり！おうちゃんが、最高の焼き加減でいろいろな食べ物を焼いてくれるよ。くまさん、おさるさん、ハンバーグ…。茶色たくさん。▼うた「たいこたいこ　どんどん！」、▼童謡「おすもうくまちゃん」、▼アニメ「おままごと～ハンバーグ」、▼「ピカピカブ～！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。",
-        "episodeName": "いないいないばあっ！　火曜日",
+        "description": "きょうは、茶色まつり！おうちゃんが、最高の焼き加減でいろいろな食べ物を焼いてくれるよ。くまさん、おさるさん、ハンバーグ…。茶色たくさん。▼うた「たいこたいこ　どんどん！」、▼童謡「おすもうくまちゃん」、▼アニメ「おままごと～ハンバーグ」、▼「ピカピカブ～！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。\n---\nきょうは、茶色まつり！おうちゃんが、最高の焼き加減でいろいろな食べ物を焼いてくれるよ。くまさん、おさるさん、ハンバーグ…。茶色たくさん。▼うた「たいこたいこ　どんどん！」、▼童謡「おすもうくまちゃん」、▼アニメ「おままごと～ハンバーグ」、▼「ピカピカブ～！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。",
+        "episodeName": "いないいないばあっ！　火曜日 / いないいないばあっ！　火曜日",
         "tvEpisodeId": "28WPRMX7LV",
         "broadcastEventId": "e1-130-2026090107107",
         "startDate": "2026-09-01T08:10:00+09:00",
@@ -435,6 +427,14 @@
         "tvEpisodeId": "M79MLK6Y22",
         "broadcastEventId": "e1-130-2026090710893",
         "startDate": "2026-09-07T08:10:00+09:00",
+        "source": "nhk"
+      },
+      "2026-09-08": {
+        "description": "ワンワン合唱部の第二弾！新メンバー発表。さらに、まさかの２人から入部希望の連絡が！？どうなるワンワン合唱部。のりもののお話もたくさんあるよ。▼うた「ブルンブルンバン！」、▼アニメ「のりものタウン」、「モニョモニョ〜バスと車」、▼たいそう「ピカピカブ〜！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。",
+        "episodeName": "いないいないばあっ！　火曜日",
+        "tvEpisodeId": "E9RMZ54YK1",
+        "broadcastEventId": "e1-130-2026090811261",
+        "startDate": "2026-09-08T08:10:00+09:00",
         "source": "nhk"
       }
     }
@@ -921,8 +921,7 @@
           "アンジェ"
         ]
       },
-      "characters": [],
-      "source": "nhk+weekly"
+      "characters": []
     },
     {
       "id": 10014,
@@ -1093,8 +1092,7 @@
       },
       "characters": [
         "ファンターネ"
-      ],
-      "source": "nhk+weekly"
+      ]
     },
     {
       "id": 10019,
@@ -1167,8 +1165,7 @@
           "鈴木信博"
         ]
       },
-      "characters": [],
-      "source": "nhk+weekly"
+      "characters": []
     },
     {
       "id": 10021,
@@ -1230,8 +1227,7 @@
       },
       "characters": [
         "ポーズマン"
-      ],
-      "source": "nhk+weekly"
+      ]
     },
     {
       "id": 10023,
@@ -1270,8 +1266,7 @@
           "曽我淳一"
         ]
       },
-      "characters": [],
-      "source": "nhk+weekly"
+      "characters": []
     },
     {
       "id": 10024,
@@ -1345,8 +1340,7 @@
           "ながたまや"
         ]
       },
-      "characters": [],
-      "source": "nhk+weekly"
+      "characters": []
     },
     {
       "id": 10026,
@@ -8047,454 +8041,6 @@
       "characters": []
     },
     {
-      "id": 13000,
-      "show": "okaasan",
-      "title": "山の音楽家",
-      "corner": "うた",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 1,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "歌のコーナー > スタジオ (広場)",
-      "credits": {
-        "lyrics": [
-          "水田詩仙"
-        ],
-        "cast": [
-          "花田ゆういちろう",
-          "ながたまや",
-          "佐久本和夢",
-          "アンジェ"
-        ]
-      },
-      "characters": []
-    },
-    {
-      "id": 13001,
-      "show": "okaasan",
-      "title": "山のワルツ",
-      "corner": "うた",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 2,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "歌のコーナー > 兄姉クリップ",
-      "credits": {
-        "lyrics": [
-          "香山美子"
-        ],
-        "music": [
-          "湯山昭"
-        ],
-        "other": [
-          "浅利真友子"
-        ],
-        "cast": [
-          "ながたまや"
-        ]
-      },
-      "characters": []
-    },
-    {
-      "id": 13002,
-      "show": "okaasan",
-      "title": "森のファミリーレストラン",
-      "corner": "人形劇",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "歌のコーナー > 人形 > 1990年02・03月の月の歌",
-      "credits": {
-        "lyrics": [
-          "冬杜花代子"
-        ],
-        "music": [
-          "花岡優平"
-        ],
-        "other": [
-          "かろくこうぼう"
-        ],
-        "vocals": [
-          "花田ゆういちろう",
-          "ながたまや"
-        ]
-      },
-      "characters": []
-    },
-    {
-      "id": 13003,
-      "show": "okaasan",
-      "title": "うさぎのダンス",
-      "corner": "人形劇",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "歌のコーナー > 人形",
-      "credits": {
-        "lyrics": [
-          "野口雨情"
-        ],
-        "music": [
-          "中山晋平"
-        ],
-        "vocals": [
-          "花田ゆういちろう",
-          "ながたまや"
-        ]
-      },
-      "characters": []
-    },
-    {
-      "id": 13004,
-      "show": "okaasan",
-      "title": "ファンターネ！",
-      "corner": "人形劇",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 5,
-      "fav": false,
-      "keywords": [
-        "ファンターネ",
-        "ファンタネ",
-        "人形劇",
-        "NHK Eテレ",
-        "おかあさんといっしょ",
-        "楽しい",
-        "にぎやか",
-        "ユーモア",
-        "キャラクター",
-        "ファンタジー",
-        "冒険"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "人形劇のコーナー",
-      "credits": {
-        "lyrics": [
-          "目次立樹"
-        ],
-        "music": [
-          "パラボラレル"
-        ]
-      },
-      "characters": [
-        "ファンターネ"
-      ]
-    },
-    {
-      "id": 13005,
-      "show": "okaasan",
-      "title": "ガリダリシュッポン！",
-      "corner": "うた",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 6,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "歌のコーナー > 兄姉クリップ > 2006年06月の月の歌",
-      "credits": {
-        "lyrics": [
-          "高柳恋",
-          "JUN"
-        ],
-        "music": [
-          "羽岡佳"
-        ],
-        "cast": [
-          "花田ゆういちろう",
-          "ながたまや",
-          "佐久本和夢",
-          "アンジェ"
-        ]
-      },
-      "characters": []
-    },
-    {
-      "id": 13006,
-      "show": "okaasan",
-      "title": "こんなこいるかな",
-      "corner": "アニメ",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 7,
-      "fav": false,
-      "keywords": [
-        "こんなこいるかな",
-        "個性的",
-        "変わった子",
-        "ユニーク",
-        "おかあさんといっしょ",
-        "子ども向け",
-        "キャラクター",
-        "ユーモア",
-        "おかしい",
-        "変"
-      ],
-      "mood": "ユーモア",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "アニメのコーナー",
-      "credits": {
-        "original": [
-          "有賀忍"
-        ],
-        "script": [
-          "鈴木信博"
-        ],
-        "bgm": [
-          "渋谷毅"
-        ]
-      },
-      "characters": []
-    },
-    {
-      "id": 13007,
-      "show": "okaasan",
-      "title": "ファンファンコロリンパ",
-      "corner": "うた",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 8,
-      "fav": false,
-      "keywords": [
-        "ファンファン",
-        "コロリンパ",
-        "ぴかぴか",
-        "キラキラ",
-        "楽しい",
-        "元気",
-        "ダンス",
-        "リズム",
-        "カラフル",
-        "かわいい"
-      ],
-      "mood": "楽しい",
-      "snippet": "ファンファンコロリンパ",
-      "snippets": [
-        "ファンファンコロリンパ"
-      ],
-      "theme": "カラフルで明るい世界を描いた、ダンスしたくなるような楽しくて元気な歌",
-      "subcategory": "兄姉コーナー",
-      "credits": {
-        "music": [
-          "パラボラレル"
-        ],
-        "cast": [
-          "花田ゆういちろう",
-          "ながたまや",
-          "佐久本和夢",
-          "アンジェ"
-        ]
-      },
-      "characters": [
-        "ファンファンコロリンパ"
-      ]
-    },
-    {
-      "id": 13008,
-      "show": "okaasan",
-      "title": "ぱくぱくるんるん",
-      "corner": "コーナー",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 9,
-      "fav": false,
-      "keywords": [
-        "ぱくぱく",
-        "食べる",
-        "るんるん",
-        "楽しい",
-        "食べ物",
-        "擬音",
-        "パクパク",
-        "ルンルン",
-        "食事",
-        "おいしい",
-        "元気"
-      ],
-      "mood": "楽しい",
-      "snippet": "ぱくぱくるんるん",
-      "snippets": [
-        "ぱくぱくるんるん",
-        "おいしくたべよう"
-      ],
-      "theme": "食べ物をおいしく食べる楽しさを、リズミカルな擬音で表現した元気でなつかしいコーナー",
-      "subcategory": "ロケ・VTRコーナー",
-      "credits": {
-        "lyrics": [
-          "もりちよこ"
-        ],
-        "music": [
-          "林祐介"
-        ],
-        "vocals": [
-          "NHK放送児童合唱団"
-        ]
-      },
-      "characters": [
-        "ぱくぱくるんるん"
-      ]
-    },
-    {
-      "id": 13009,
-      "show": "okaasan",
-      "title": "えぞももんが",
-      "corner": "コーナー",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 10,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "インターミッション > 自然の映像",
-      "characters": []
-    },
-    {
-      "id": 13010,
-      "show": "okaasan",
-      "title": "からだ☆ダンダン",
-      "corner": "体操",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 11,
-      "fav": false,
-      "keywords": [
-        "からだダンダン",
-        "体操",
-        "ダンダン",
-        "元気",
-        "子ども体操",
-        "ダンス",
-        "からだ",
-        "運動",
-        "楽しい",
-        "おかあさんといっしょ"
-      ],
-      "mood": "元気",
-      "snippet": "からだ☆ダンダン",
-      "snippets": [
-        "からだ☆ダンダン",
-        "ダンダンダン"
-      ],
-      "theme": "身体を動かしながらダンスする、子どもたちの健やかな成長を応援する元気な体操の歌",
-      "subcategory": "体操のコーナー",
-      "credits": {
-        "lyrics": [
-          "吉田戦車"
-        ],
-        "music": [
-          "小杉保夫"
-        ],
-        "other": [
-          "内藤久士",
-          "巣立隆宏"
-        ],
-        "choreo": [
-          "MAIKO"
-        ],
-        "vocals": [
-          "Fourdans"
-        ],
-        "cast": [
-          "佐久本和夢",
-          "アンジェ",
-          "花田ゆういちろう",
-          "ながたまや"
-        ]
-      },
-      "characters": []
-    },
-    {
-      "id": 13011,
-      "show": "okaasan",
-      "title": "きんらきら ぽん",
-      "corner": "コーナー",
-      "date": "2026-08-03",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 12,
-      "fav": false,
-      "keywords": [
-        "きんらきら",
-        "ぽん",
-        "キラキラ",
-        "ポン",
-        "きらきら",
-        "光る",
-        "ピカピカ",
-        "楽しい",
-        "元気",
-        "NHK",
-        "おかあさんといっしょ"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "エンディング",
-      "credits": {
-        "lyrics": [
-          "齋藤陽道"
-        ],
-        "music": [
-          "牧野奏海"
-        ],
-        "choreo": [
-          "大原晶子"
-        ],
-        "cast": [
-          "花田ゆういちろう",
-          "ながたまや",
-          "佐久本和夢",
-          "アンジェ"
-        ]
-      },
-      "characters": []
-    },
-    {
       "id": 13012,
       "show": "okaasan",
       "title": "あくびがビブベバ",
@@ -10638,9 +10184,9 @@
     {
       "id": 20001,
       "show": "okaasan",
-      "title": "山の音楽家",
+      "title": "あくびがビブベバ",
       "corner": "うた",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
       "order": 1,
@@ -10659,7 +10205,7 @@
       "show": "okaasan",
       "title": "ファンターネ！",
       "corner": "人形劇",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
       "order": 2,
@@ -10692,7 +10238,7 @@
       "show": "okaasan",
       "title": "こんなこいるかな",
       "corner": "人形劇",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
       "order": 3,
@@ -10720,79 +10266,62 @@
     {
       "id": 20004,
       "show": "okaasan",
-      "title": "ファンファンコロリンパ",
+      "title": "さすらいのポーズマン",
       "corner": "うた",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
       "order": 4,
       "fav": false,
-      "keywords": [
-        "ファンファン",
-        "コロリンパ",
-        "ぴかぴか",
-        "キラキラ",
-        "楽しい",
-        "元気",
-        "ダンス",
-        "リズム",
-        "カラフル",
-        "かわいい"
-      ],
-      "mood": "楽しい",
-      "snippet": "ファンファンコロリンパ",
-      "snippets": [
-        "ファンファンコロリンパ"
-      ],
-      "theme": "カラフルで明るい世界を描いた、ダンスしたくなるような楽しくて元気な歌",
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
       "subcategory": "うた",
       "source": "nhk",
       "characters": [
-        "ファンファンコロリンパ"
+        "ポーズマン"
       ]
     },
     {
       "id": 20005,
       "show": "okaasan",
-      "title": "ぱくぱくるんるん",
+      "title": "てーを！",
       "corner": "うた",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "ぱくぱく",
-        "食べる",
-        "るんるん",
+        "てーを",
+        "手を",
+        "指遊び",
+        "手遊び",
+        "パタパタ",
+        "ぱたぱた",
+        "リズム遊び",
+        "手の動き",
         "楽しい",
-        "食べ物",
-        "擬音",
-        "パクパク",
-        "ルンルン",
-        "食事",
-        "おいしい",
         "元気"
       ],
       "mood": "楽しい",
-      "snippet": "ぱくぱくるんるん",
+      "snippet": "てーを！",
       "snippets": [
-        "ぱくぱくるんるん",
-        "おいしくたべよう"
+        "てーを！"
       ],
-      "theme": "食べ物をおいしく食べる楽しさを、リズミカルな擬音で表現した元気でなつかしいコーナー",
+      "theme": "手を使ったリズミカルな遊びを通じて、子どもたちが楽しく参加できるインタラクティブなコーナー",
       "subcategory": "うた",
       "source": "nhk",
-      "characters": [
-        "ぱくぱくるんるん"
-      ]
+      "characters": []
     },
     {
       "id": 20006,
       "show": "okaasan",
       "title": "からだ☆ダンダン",
       "corner": "体操",
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
       "order": 6,
@@ -10828,7 +10357,7 @@
       "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
-      "order": 1,
+      "order": 7,
       "fav": false,
       "keywords": [],
       "mood": "",
@@ -10847,7 +10376,7 @@
       "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
-      "order": 2,
+      "order": 8,
       "fav": false,
       "keywords": [
         "ファンターネ",
@@ -10880,7 +10409,7 @@
       "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
-      "order": 3,
+      "order": 9,
       "fav": false,
       "keywords": [
         "こんなこいるかな",
@@ -10910,7 +10439,7 @@
       "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
-      "order": 4,
+      "order": 10,
       "fav": false,
       "keywords": [],
       "mood": "",
@@ -10931,7 +10460,7 @@
       "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
-      "order": 5,
+      "order": 11,
       "fav": false,
       "keywords": [
         "てーを",
@@ -10963,7 +10492,7 @@
       "date": "2026-09-01",
       "airtime": "07:45",
       "offset": "",
-      "order": 6,
+      "order": 12,
       "fav": false,
       "keywords": [
         "からだダンダン",
@@ -11194,6 +10723,174 @@
     },
     {
       "id": 20020,
+      "show": "okaasan",
+      "title": "すきすき！ナットウスキー",
+      "corner": "うた",
+      "date": "2026-09-08",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 1,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20021,
+      "show": "okaasan",
+      "title": "ファンターネ！",
+      "corner": "人形劇",
+      "date": "2026-09-08",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 2,
+      "fav": false,
+      "keywords": [
+        "ファンターネ",
+        "ファンタネ",
+        "人形劇",
+        "NHK Eテレ",
+        "おかあさんといっしょ",
+        "楽しい",
+        "にぎやか",
+        "ユーモア",
+        "キャラクター",
+        "ファンタジー",
+        "冒険"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "人形劇",
+      "source": "nhk",
+      "characters": [
+        "ファンターネ"
+      ]
+    },
+    {
+      "id": 20022,
+      "show": "okaasan",
+      "title": "こんなこいるかな",
+      "corner": "人形劇",
+      "date": "2026-09-08",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "こんなこいるかな",
+        "個性的",
+        "変わった子",
+        "ユニーク",
+        "おかあさんといっしょ",
+        "子ども向け",
+        "キャラクター",
+        "ユーモア",
+        "おかしい",
+        "変"
+      ],
+      "mood": "ユーモア",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "人形劇",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20023,
+      "show": "okaasan",
+      "title": "さすらいのポーズマン",
+      "corner": "うた",
+      "date": "2026-09-08",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 4,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": [
+        "ポーズマン"
+      ]
+    },
+    {
+      "id": 20024,
+      "show": "okaasan",
+      "title": "てーを！",
+      "corner": "うた",
+      "date": "2026-09-08",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 5,
+      "fav": false,
+      "keywords": [
+        "てーを",
+        "手を",
+        "指遊び",
+        "手遊び",
+        "パタパタ",
+        "ぱたぱた",
+        "リズム遊び",
+        "手の動き",
+        "楽しい",
+        "元気"
+      ],
+      "mood": "楽しい",
+      "snippet": "てーを！",
+      "snippets": [
+        "てーを！"
+      ],
+      "theme": "手を使ったリズミカルな遊びを通じて、子どもたちが楽しく参加できるインタラクティブなコーナー",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20025,
+      "show": "okaasan",
+      "title": "からだ☆ダンダン",
+      "corner": "体操",
+      "date": "2026-09-08",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 6,
+      "fav": false,
+      "keywords": [
+        "からだダンダン",
+        "体操",
+        "ダンダン",
+        "元気",
+        "子ども体操",
+        "ダンス",
+        "からだ",
+        "運動",
+        "楽しい",
+        "おかあさんといっしょ"
+      ],
+      "mood": "元気",
+      "snippet": "からだ☆ダンダン",
+      "snippets": [
+        "からだ☆ダンダン",
+        "ダンダンダン"
+      ],
+      "theme": "身体を動かしながらダンスする、子どもたちの健やかな成長を応援する元気な体操の歌",
+      "subcategory": "体操",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20026,
       "show": "inai",
       "title": "たいこたいこ　どんどん！",
       "corner": "うた",
@@ -11212,7 +10909,7 @@
       "characters": []
     },
     {
-      "id": 20021,
+      "id": 20027,
       "show": "inai",
       "title": "だいすき！ボボボンボール！",
       "corner": "うた",
@@ -11231,7 +10928,7 @@
       "characters": []
     },
     {
-      "id": 20022,
+      "id": 20028,
       "show": "inai",
       "title": "ながぐつのぶか",
       "corner": "アニメ",
@@ -11250,7 +10947,7 @@
       "characters": []
     },
     {
-      "id": 20023,
+      "id": 20029,
       "show": "inai",
       "title": "ピカピカブ～！",
       "corner": "体操",
@@ -11269,7 +10966,7 @@
       "characters": []
     },
     {
-      "id": 20024,
+      "id": 20030,
       "show": "inai",
       "title": "たいこたいこ　どんどん！",
       "corner": "うた",
@@ -11288,7 +10985,7 @@
       "characters": []
     },
     {
-      "id": 20025,
+      "id": 20031,
       "show": "inai",
       "title": "おすもうくまちゃん",
       "corner": "うた",
@@ -11307,7 +11004,7 @@
       "characters": []
     },
     {
-      "id": 20026,
+      "id": 20032,
       "show": "inai",
       "title": "おままごと～ハンバーグ",
       "corner": "アニメ",
@@ -11326,7 +11023,7 @@
       "characters": []
     },
     {
-      "id": 20027,
+      "id": 20033,
       "show": "inai",
       "title": "ピカピカブ～！",
       "corner": "コーナー",
@@ -11345,7 +11042,83 @@
       "characters": []
     },
     {
-      "id": 20028,
+      "id": 20034,
+      "show": "inai",
+      "title": "たいこたいこ　どんどん！",
+      "corner": "うた",
+      "date": "2026-09-01",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 5,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20035,
+      "show": "inai",
+      "title": "おすもうくまちゃん",
+      "corner": "うた",
+      "date": "2026-09-01",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 6,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20036,
+      "show": "inai",
+      "title": "おままごと～ハンバーグ",
+      "corner": "アニメ",
+      "date": "2026-09-01",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 7,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "アニメ",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20037,
+      "show": "inai",
+      "title": "ピカピカブ～！",
+      "corner": "コーナー",
+      "date": "2026-09-01",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 8,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "コーナー",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20038,
       "show": "inai",
       "title": "たいこたいこ　どんどん！",
       "corner": "うた",
@@ -11364,7 +11137,7 @@
       "characters": []
     },
     {
-      "id": 20029,
+      "id": 20039,
       "show": "inai",
       "title": "おすもうくまちゃん",
       "corner": "うた",
@@ -11383,7 +11156,7 @@
       "characters": []
     },
     {
-      "id": 20030,
+      "id": 20040,
       "show": "inai",
       "title": "つみきでどうぶつ～サイ",
       "corner": "アニメ",
@@ -11402,7 +11175,7 @@
       "characters": []
     },
     {
-      "id": 20031,
+      "id": 20041,
       "show": "inai",
       "title": "ぽぅぽのでーきた～ねむねむすやや",
       "corner": "コーナー",
@@ -11423,7 +11196,7 @@
       ]
     },
     {
-      "id": 20032,
+      "id": 20042,
       "show": "inai",
       "title": "ピカピカブ～！",
       "corner": "コーナー",
@@ -11442,7 +11215,7 @@
       "characters": []
     },
     {
-      "id": 20033,
+      "id": 20043,
       "show": "inai",
       "title": "たいこたいこ　どんどん！",
       "corner": "うた",
@@ -11461,7 +11234,7 @@
       "characters": []
     },
     {
-      "id": 20034,
+      "id": 20044,
       "show": "inai",
       "title": "おすもうくまちゃん",
       "corner": "うた",
@@ -11480,7 +11253,7 @@
       "characters": []
     },
     {
-      "id": 20035,
+      "id": 20045,
       "show": "inai",
       "title": "モニョモニョ～たいこ",
       "corner": "アニメ",
@@ -11499,7 +11272,7 @@
       "characters": []
     },
     {
-      "id": 20036,
+      "id": 20046,
       "show": "inai",
       "title": "あかちゃんアニメ～クマと風船",
       "corner": "アニメ",
@@ -11518,7 +11291,7 @@
       "characters": []
     },
     {
-      "id": 20037,
+      "id": 20047,
       "show": "inai",
       "title": "ピカピカブ～！",
       "corner": "コーナー",
@@ -11537,7 +11310,7 @@
       "characters": []
     },
     {
-      "id": 20038,
+      "id": 20048,
       "show": "inai",
       "title": "たいこたいこ　どんどん！",
       "corner": "うた",
@@ -11556,7 +11329,7 @@
       "characters": []
     },
     {
-      "id": 20039,
+      "id": 20049,
       "show": "inai",
       "title": "もくもくも",
       "corner": "うた",
@@ -11575,7 +11348,7 @@
       "characters": []
     },
     {
-      "id": 20040,
+      "id": 20050,
       "show": "inai",
       "title": "ぶうちゃんのおさんぽ～むしのこえ",
       "corner": "アニメ",
@@ -11594,7 +11367,7 @@
       "characters": []
     },
     {
-      "id": 20041,
+      "id": 20051,
       "show": "inai",
       "title": "うみにいこう",
       "corner": "うた",
@@ -11613,7 +11386,7 @@
       "characters": []
     },
     {
-      "id": 20042,
+      "id": 20052,
       "show": "inai",
       "title": "でたでた〜うきわ",
       "corner": "アニメ",
@@ -11632,7 +11405,7 @@
       "characters": []
     },
     {
-      "id": 20043,
+      "id": 20053,
       "show": "inai",
       "title": "ボールのたび〜海",
       "corner": "コーナー",
@@ -11651,7 +11424,7 @@
       "characters": []
     },
     {
-      "id": 20044,
+      "id": 20054,
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "体操",
@@ -11680,189 +11453,71 @@
       ]
     },
     {
-      "id": 20052,
+      "id": 20055,
       "show": "inai",
-      "title": "ピカピカブ〜！",
+      "title": "ブルンブルンバン！",
       "corner": "うた",
-      "date": "2026-08-28",
+      "date": "2026-09-08",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
       "fav": false,
-      "keywords": [
-        "ピカピカ",
-        "ピカブー",
-        "OP",
-        "オープニング",
-        "はじまり",
-        "ワンワン",
-        "おうちゃん",
-        "ぽぅぽ"
-      ],
-      "mood": "にぎやか",
-      "snippet": "ピカピカブ〜！",
-      "subcategory": "OPテーマ",
-      "source_tag": "predicted",
-      "characters": [
-        "おうちゃん",
-        "ぽぅぽ",
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20053,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-28",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 2,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
+      "keywords": [],
+      "mood": "",
       "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20054,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-28",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20055,
-      "show": "inai",
-      "title": "いちにっ！せーの！",
-      "corner": "うた",
-      "date": "2026-08-28",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "いちに",
-        "せーの",
-        "かけ声",
-        "号令",
-        "元気"
-      ],
-      "mood": "元気",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
       "characters": []
     },
     {
       "id": 20056,
       "show": "inai",
-      "title": "パジャマでおじゃま",
+      "title": "のりものタウン",
       "corner": "アニメ",
-      "date": "2026-08-28",
+      "date": "2026-09-08",
       "airtime": "08:10",
       "offset": "",
-      "order": 5,
+      "order": 2,
       "fav": false,
-      "keywords": [
-        "パジャマ",
-        "着替え",
-        "おじゃま",
-        "寝る",
-        "準備"
-      ],
-      "mood": "楽しい",
+      "keywords": [],
+      "mood": "",
       "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "アニメ",
+      "source": "nhk",
       "characters": []
     },
     {
       "id": 20057,
       "show": "inai",
-      "title": "テトテトテトテトテ",
-      "corner": "うた",
-      "date": "2026-08-28",
+      "title": "モニョモニョ〜バスと車",
+      "corner": "アニメ",
+      "date": "2026-09-08",
       "airtime": "08:10",
       "offset": "",
-      "order": 8,
+      "order": 3,
       "fav": false,
-      "keywords": [
-        "テトテト",
-        "手",
-        "ふれあい",
-        "スキンシップ",
-        "ワンワン",
-        "手遊び"
-      ],
-      "mood": "にぎやか",
-      "snippet": "テトテト テトテトテ",
-      "subcategory": "2025年度〜のうた",
-      "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "アニメ",
+      "source": "nhk",
+      "characters": []
     },
     {
       "id": 20058,
       "show": "inai",
-      "title": "おうえん！おぅ！おぅ！",
-      "corner": "うた",
-      "date": "2026-08-28",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 9,
-      "fav": false,
-      "keywords": [
-        "応援",
-        "おうえん",
-        "おぅ",
-        "ED",
-        "エンディング",
-        "ワンワン",
-        "元気"
-      ],
-      "mood": "元気",
-      "snippet": "おうえん！おぅ！おぅ！",
-      "subcategory": "EDテーマ（2025年度〜）",
-      "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20059,
-      "show": "inai",
       "title": "ピカピカブ〜！",
-      "corner": "うた",
-      "date": "2026-08-27",
+      "corner": "体操",
+      "date": "2026-09-08",
       "airtime": "08:10",
       "offset": "",
-      "order": 1,
+      "order": 4,
       "fav": false,
       "keywords": [
         "ピカピカ",
@@ -11870,337 +11525,15 @@
         "OP",
         "オープニング",
         "はじまり",
-        "ワンワン",
-        "おうちゃん",
-        "ぽぅぽ"
+        "光る",
+        "ワンワン"
       ],
       "mood": "にぎやか",
       "snippet": "ピカピカブ〜！",
-      "subcategory": "OPテーマ",
-      "source_tag": "predicted",
-      "characters": [
-        "おうちゃん",
-        "ぽぅぽ",
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20060,
-      "show": "inai",
-      "title": "ふたりはなかよし",
-      "corner": "うた",
-      "date": "2026-08-27",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 2,
-      "fav": false,
-      "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20061,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-27",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20062,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-27",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20063,
-      "show": "inai",
-      "title": "はみがきじょうずかな",
-      "corner": "アニメ",
-      "date": "2026-08-27",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 5,
-      "fav": false,
-      "keywords": [
-        "歯磨き",
-        "はみがき",
-        "歯",
-        "お風呂",
-        "生活"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20064,
-      "show": "inai",
-      "title": "テトテトテトテトテ",
-      "corner": "うた",
-      "date": "2026-08-27",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 8,
-      "fav": false,
-      "keywords": [
-        "テトテト",
-        "手",
-        "ふれあい",
-        "スキンシップ",
-        "ワンワン",
-        "手遊び"
-      ],
-      "mood": "にぎやか",
-      "snippet": "テトテト テトテトテ",
-      "subcategory": "2025年度〜のうた",
-      "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20065,
-      "show": "inai",
-      "title": "おうえん！おぅ！おぅ！",
-      "corner": "うた",
-      "date": "2026-08-27",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 9,
-      "fav": false,
-      "keywords": [
-        "応援",
-        "おうえん",
-        "おぅ",
-        "ED",
-        "エンディング",
-        "ワンワン",
-        "元気"
-      ],
-      "mood": "元気",
-      "snippet": "おうえん！おぅ！おぅ！",
-      "subcategory": "EDテーマ（2025年度〜）",
-      "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20066,
-      "show": "inai",
-      "title": "ピカピカブ〜！",
-      "corner": "うた",
-      "date": "2026-08-26",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 1,
-      "fav": false,
-      "keywords": [
-        "ピカピカ",
-        "ピカブー",
-        "OP",
-        "オープニング",
-        "はじまり",
-        "ワンワン",
-        "おうちゃん",
-        "ぽぅぽ"
-      ],
-      "mood": "にぎやか",
-      "snippet": "ピカピカブ〜！",
-      "subcategory": "OPテーマ",
-      "source_tag": "predicted",
-      "characters": [
-        "おうちゃん",
-        "ぽぅぽ",
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20067,
-      "show": "inai",
-      "title": "たべるのだいすき",
-      "corner": "うた",
-      "date": "2026-08-26",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 2,
-      "fav": false,
-      "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20068,
-      "show": "inai",
-      "title": "ふたりはなかよし",
-      "corner": "うた",
-      "date": "2026-08-26",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20069,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-26",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20070,
-      "show": "inai",
-      "title": "ワンワンのほっかほっか",
-      "corner": "アニメ",
-      "date": "2026-08-26",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 5,
-      "fav": false,
-      "keywords": [
-        "ワンワン",
-        "あったかい",
-        "冬",
-        "ほっかほっか"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20071,
-      "show": "inai",
-      "title": "テトテトテトテトテ",
-      "corner": "うた",
-      "date": "2026-08-26",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 8,
-      "fav": false,
-      "keywords": [
-        "テトテト",
-        "手",
-        "ふれあい",
-        "スキンシップ",
-        "ワンワン",
-        "手遊び"
-      ],
-      "mood": "にぎやか",
-      "snippet": "テトテト テトテトテ",
-      "subcategory": "2025年度〜のうた",
-      "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
-    },
-    {
-      "id": 20072,
-      "show": "inai",
-      "title": "おうえん！おぅ！おぅ！",
-      "corner": "うた",
-      "date": "2026-08-26",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 9,
-      "fav": false,
-      "keywords": [
-        "応援",
-        "おうえん",
-        "おぅ",
-        "ED",
-        "エンディング",
-        "ワンワン",
-        "元気"
-      ],
-      "mood": "元気",
-      "snippet": "おうえん！おぅ！おぅ！",
-      "subcategory": "EDテーマ（2025年度〜）",
-      "source_tag": "predicted",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "体操",
+      "source": "nhk",
       "characters": [
         "ワンワン"
       ]
@@ -12210,7 +11543,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -12238,21 +11571,21 @@
     {
       "id": 20074,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -12261,19 +11594,19 @@
     {
       "id": 20075,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -12284,21 +11617,21 @@
     {
       "id": 20076,
       "show": "inai",
-      "title": "ふたりはなかよし",
+      "title": "いちにっ！せーの！",
       "corner": "うた",
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
+        "いちに",
+        "せーの",
+        "かけ声",
+        "号令",
+        "元気"
       ],
-      "mood": "優しい",
+      "mood": "元気",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -12309,7 +11642,7 @@
       "show": "inai",
       "title": "パジャマでおじゃま",
       "corner": "アニメ",
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -12332,7 +11665,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -12358,7 +11691,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -12385,7 +11718,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -12413,20 +11746,21 @@
     {
       "id": 20081,
       "show": "inai",
-      "title": "ハッピー・ジャムジャム",
+      "title": "ふたりはなかよし",
       "corner": "うた",
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "ハッピー",
-        "ジャムジャム",
-        "楽しい",
-        "踊る"
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -12435,21 +11769,21 @@
     {
       "id": 20082,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -12458,19 +11792,19 @@
     {
       "id": 20083,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -12483,7 +11817,7 @@
       "show": "inai",
       "title": "はみがきじょうずかな",
       "corner": "アニメ",
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -12506,7 +11840,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -12532,7 +11866,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -12559,7 +11893,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-21",
+      "date": "2026-08-26",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -12587,12 +11921,58 @@
     {
       "id": 20088,
       "show": "inai",
-      "title": "あくびがさいた",
+      "title": "たべるのだいすき",
       "corner": "うた",
-      "date": "2026-08-21",
+      "date": "2026-08-26",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20089,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-26",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
+      ],
+      "mood": "優しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20090,
+      "show": "inai",
+      "title": "あくびがさいた",
+      "corner": "うた",
+      "date": "2026-08-26",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "あくび",
@@ -12608,80 +11988,35 @@
       "characters": []
     },
     {
-      "id": 20089,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-21",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20090,
-      "show": "inai",
-      "title": "いちにっ！せーの！",
-      "corner": "うた",
-      "date": "2026-08-21",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "いちに",
-        "せーの",
-        "かけ声",
-        "号令",
-        "元気"
-      ],
-      "mood": "元気",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20091,
       "show": "inai",
-      "title": "パジャマでおじゃま",
+      "title": "ワンワンのほっかほっか",
       "corner": "アニメ",
-      "date": "2026-08-21",
+      "date": "2026-08-26",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "パジャマ",
-        "着替え",
-        "おじゃま",
-        "寝る",
-        "準備"
+        "ワンワン",
+        "あったかい",
+        "冬",
+        "ほっかほっか"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
-      "characters": []
+      "characters": [
+        "ワンワン"
+      ]
     },
     {
       "id": 20092,
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-21",
+      "date": "2026-08-26",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -12707,7 +12042,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-21",
+      "date": "2026-08-26",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -12734,7 +12069,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-20",
+      "date": "2026-08-25",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -12762,12 +12097,58 @@
     {
       "id": 20095,
       "show": "inai",
-      "title": "ふたりはなかよし",
+      "title": "せんたくじゃぶじゃぶ",
       "corner": "うた",
-      "date": "2026-08-20",
+      "date": "2026-08-25",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "洗濯",
+        "せんたく",
+        "じゃぶじゃぶ",
+        "お手伝い",
+        "生活"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20096,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-25",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20097,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-25",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "仲良し",
@@ -12783,67 +12164,21 @@
       "characters": []
     },
     {
-      "id": 20096,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-20",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20097,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-20",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20098,
       "show": "inai",
-      "title": "はみがきじょうずかな",
+      "title": "パジャマでおじゃま",
       "corner": "アニメ",
-      "date": "2026-08-20",
+      "date": "2026-08-25",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "歯磨き",
-        "はみがき",
-        "歯",
-        "お風呂",
-        "生活"
+        "パジャマ",
+        "着替え",
+        "おじゃま",
+        "寝る",
+        "準備"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -12856,7 +12191,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-20",
+      "date": "2026-08-25",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -12882,7 +12217,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-20",
+      "date": "2026-08-25",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -12909,7 +12244,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-19",
+      "date": "2026-08-24",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -12937,12 +12272,57 @@
     {
       "id": 20102,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "ハッピー・ジャムジャム",
       "corner": "うた",
-      "date": "2026-08-19",
+      "date": "2026-08-24",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "ハッピー",
+        "ジャムジャム",
+        "楽しい",
+        "踊る"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20103,
+      "show": "inai",
+      "title": "せんたくじゃぶじゃぶ",
+      "corner": "うた",
+      "date": "2026-08-24",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "洗濯",
+        "せんたく",
+        "じゃぶじゃぶ",
+        "お手伝い",
+        "生活"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20104,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-24",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "食べる",
@@ -12958,81 +12338,34 @@
       "characters": []
     },
     {
-      "id": 20103,
-      "show": "inai",
-      "title": "ふたりはなかよし",
-      "corner": "うた",
-      "date": "2026-08-19",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20104,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-19",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20105,
       "show": "inai",
-      "title": "ワンワンのほっかほっか",
+      "title": "はみがきじょうずかな",
       "corner": "アニメ",
-      "date": "2026-08-19",
+      "date": "2026-08-24",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "ワンワン",
-        "あったかい",
-        "冬",
-        "ほっかほっか"
+        "歯磨き",
+        "はみがき",
+        "歯",
+        "お風呂",
+        "生活"
       ],
-      "mood": "優しい",
+      "mood": "楽しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
+      "characters": []
     },
     {
       "id": 20106,
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-19",
+      "date": "2026-08-24",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -13058,7 +12391,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-19",
+      "date": "2026-08-24",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -13085,7 +12418,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -13113,21 +12446,21 @@
     {
       "id": 20109,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -13136,19 +12469,19 @@
     {
       "id": 20110,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -13159,21 +12492,21 @@
     {
       "id": 20111,
       "show": "inai",
-      "title": "ふたりはなかよし",
+      "title": "いちにっ！せーの！",
       "corner": "うた",
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
+        "いちに",
+        "せーの",
+        "かけ声",
+        "号令",
+        "元気"
       ],
-      "mood": "優しい",
+      "mood": "元気",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -13184,7 +12517,7 @@
       "show": "inai",
       "title": "パジャマでおじゃま",
       "corner": "アニメ",
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -13207,7 +12540,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -13233,7 +12566,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-18",
+      "date": "2026-08-21",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -13260,7 +12593,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-17",
+      "date": "2026-08-20",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -13288,20 +12621,21 @@
     {
       "id": 20116,
       "show": "inai",
-      "title": "ハッピー・ジャムジャム",
+      "title": "ふたりはなかよし",
       "corner": "うた",
-      "date": "2026-08-17",
+      "date": "2026-08-20",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "ハッピー",
-        "ジャムジャム",
-        "楽しい",
-        "踊る"
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -13310,21 +12644,21 @@
     {
       "id": 20117,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-17",
+      "date": "2026-08-20",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -13333,19 +12667,19 @@
     {
       "id": 20118,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-17",
+      "date": "2026-08-20",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -13358,7 +12692,7 @@
       "show": "inai",
       "title": "はみがきじょうずかな",
       "corner": "アニメ",
-      "date": "2026-08-17",
+      "date": "2026-08-20",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -13381,7 +12715,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-17",
+      "date": "2026-08-20",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -13407,7 +12741,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-17",
+      "date": "2026-08-20",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -13434,7 +12768,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-14",
+      "date": "2026-08-19",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -13462,12 +12796,58 @@
     {
       "id": 20123,
       "show": "inai",
-      "title": "あくびがさいた",
+      "title": "たべるのだいすき",
       "corner": "うた",
-      "date": "2026-08-14",
+      "date": "2026-08-19",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20124,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-19",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
+      ],
+      "mood": "優しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20125,
+      "show": "inai",
+      "title": "あくびがさいた",
+      "corner": "うた",
+      "date": "2026-08-19",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "あくび",
@@ -13483,80 +12863,35 @@
       "characters": []
     },
     {
-      "id": 20124,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-14",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20125,
-      "show": "inai",
-      "title": "いちにっ！せーの！",
-      "corner": "うた",
-      "date": "2026-08-14",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "いちに",
-        "せーの",
-        "かけ声",
-        "号令",
-        "元気"
-      ],
-      "mood": "元気",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20126,
       "show": "inai",
-      "title": "パジャマでおじゃま",
+      "title": "ワンワンのほっかほっか",
       "corner": "アニメ",
-      "date": "2026-08-14",
+      "date": "2026-08-19",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "パジャマ",
-        "着替え",
-        "おじゃま",
-        "寝る",
-        "準備"
+        "ワンワン",
+        "あったかい",
+        "冬",
+        "ほっかほっか"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
-      "characters": []
+      "characters": [
+        "ワンワン"
+      ]
     },
     {
       "id": 20127,
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-14",
+      "date": "2026-08-19",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -13582,7 +12917,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-14",
+      "date": "2026-08-19",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -13609,7 +12944,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -13637,12 +12972,58 @@
     {
       "id": 20130,
       "show": "inai",
-      "title": "ふたりはなかよし",
+      "title": "せんたくじゃぶじゃぶ",
       "corner": "うた",
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "洗濯",
+        "せんたく",
+        "じゃぶじゃぶ",
+        "お手伝い",
+        "生活"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20131,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-18",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20132,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-18",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "仲良し",
@@ -13658,67 +13039,21 @@
       "characters": []
     },
     {
-      "id": 20131,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-13",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20132,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-13",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20133,
       "show": "inai",
-      "title": "はみがきじょうずかな",
+      "title": "パジャマでおじゃま",
       "corner": "アニメ",
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "歯磨き",
-        "はみがき",
-        "歯",
-        "お風呂",
-        "生活"
+        "パジャマ",
+        "着替え",
+        "おじゃま",
+        "寝る",
+        "準備"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -13731,7 +13066,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -13757,7 +13092,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-13",
+      "date": "2026-08-18",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -13784,7 +13119,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-12",
+      "date": "2026-08-17",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -13812,12 +13147,57 @@
     {
       "id": 20137,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "ハッピー・ジャムジャム",
       "corner": "うた",
-      "date": "2026-08-12",
+      "date": "2026-08-17",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "ハッピー",
+        "ジャムジャム",
+        "楽しい",
+        "踊る"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20138,
+      "show": "inai",
+      "title": "せんたくじゃぶじゃぶ",
+      "corner": "うた",
+      "date": "2026-08-17",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "洗濯",
+        "せんたく",
+        "じゃぶじゃぶ",
+        "お手伝い",
+        "生活"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20139,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-17",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "食べる",
@@ -13833,81 +13213,34 @@
       "characters": []
     },
     {
-      "id": 20138,
-      "show": "inai",
-      "title": "ふたりはなかよし",
-      "corner": "うた",
-      "date": "2026-08-12",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20139,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-12",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20140,
       "show": "inai",
-      "title": "ワンワンのほっかほっか",
+      "title": "はみがきじょうずかな",
       "corner": "アニメ",
-      "date": "2026-08-12",
+      "date": "2026-08-17",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "ワンワン",
-        "あったかい",
-        "冬",
-        "ほっかほっか"
+        "歯磨き",
+        "はみがき",
+        "歯",
+        "お風呂",
+        "生活"
       ],
-      "mood": "優しい",
+      "mood": "楽しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
+      "characters": []
     },
     {
       "id": 20141,
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-12",
+      "date": "2026-08-17",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -13933,7 +13266,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-12",
+      "date": "2026-08-17",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -13960,7 +13293,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -13988,21 +13321,21 @@
     {
       "id": 20144,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -14011,19 +13344,19 @@
     {
       "id": 20145,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -14034,21 +13367,21 @@
     {
       "id": 20146,
       "show": "inai",
-      "title": "ふたりはなかよし",
+      "title": "いちにっ！せーの！",
       "corner": "うた",
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
+        "いちに",
+        "せーの",
+        "かけ声",
+        "号令",
+        "元気"
       ],
-      "mood": "優しい",
+      "mood": "元気",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -14059,7 +13392,7 @@
       "show": "inai",
       "title": "パジャマでおじゃま",
       "corner": "アニメ",
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -14082,7 +13415,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -14108,7 +13441,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-11",
+      "date": "2026-08-14",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -14135,7 +13468,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-10",
+      "date": "2026-08-13",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -14163,20 +13496,21 @@
     {
       "id": 20151,
       "show": "inai",
-      "title": "ハッピー・ジャムジャム",
+      "title": "ふたりはなかよし",
       "corner": "うた",
-      "date": "2026-08-10",
+      "date": "2026-08-13",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "ハッピー",
-        "ジャムジャム",
-        "楽しい",
-        "踊る"
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -14185,21 +13519,21 @@
     {
       "id": 20152,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-10",
+      "date": "2026-08-13",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -14208,19 +13542,19 @@
     {
       "id": 20153,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-10",
+      "date": "2026-08-13",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -14233,7 +13567,7 @@
       "show": "inai",
       "title": "はみがきじょうずかな",
       "corner": "アニメ",
-      "date": "2026-08-10",
+      "date": "2026-08-13",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -14256,7 +13590,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-10",
+      "date": "2026-08-13",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -14282,7 +13616,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-10",
+      "date": "2026-08-13",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -14309,7 +13643,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-07",
+      "date": "2026-08-12",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -14337,12 +13671,58 @@
     {
       "id": 20158,
       "show": "inai",
-      "title": "あくびがさいた",
+      "title": "たべるのだいすき",
       "corner": "うた",
-      "date": "2026-08-07",
+      "date": "2026-08-12",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20159,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-12",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
+      ],
+      "mood": "優しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20160,
+      "show": "inai",
+      "title": "あくびがさいた",
+      "corner": "うた",
+      "date": "2026-08-12",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "あくび",
@@ -14358,80 +13738,35 @@
       "characters": []
     },
     {
-      "id": 20159,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-07",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20160,
-      "show": "inai",
-      "title": "いちにっ！せーの！",
-      "corner": "うた",
-      "date": "2026-08-07",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "いちに",
-        "せーの",
-        "かけ声",
-        "号令",
-        "元気"
-      ],
-      "mood": "元気",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20161,
       "show": "inai",
-      "title": "パジャマでおじゃま",
+      "title": "ワンワンのほっかほっか",
       "corner": "アニメ",
-      "date": "2026-08-07",
+      "date": "2026-08-12",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "パジャマ",
-        "着替え",
-        "おじゃま",
-        "寝る",
-        "準備"
+        "ワンワン",
+        "あったかい",
+        "冬",
+        "ほっかほっか"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
-      "characters": []
+      "characters": [
+        "ワンワン"
+      ]
     },
     {
       "id": 20162,
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-07",
+      "date": "2026-08-12",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -14457,7 +13792,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-07",
+      "date": "2026-08-12",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -14484,7 +13819,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-06",
+      "date": "2026-08-11",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -14512,12 +13847,58 @@
     {
       "id": 20165,
       "show": "inai",
-      "title": "ふたりはなかよし",
+      "title": "せんたくじゃぶじゃぶ",
       "corner": "うた",
-      "date": "2026-08-06",
+      "date": "2026-08-11",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "洗濯",
+        "せんたく",
+        "じゃぶじゃぶ",
+        "お手伝い",
+        "生活"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20166,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-11",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20167,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-11",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "仲良し",
@@ -14533,67 +13914,21 @@
       "characters": []
     },
     {
-      "id": 20166,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-06",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20167,
-      "show": "inai",
-      "title": "フルーツ プルプル",
-      "corner": "うた",
-      "date": "2026-08-06",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "フルーツ",
-        "果物",
-        "プルプル",
-        "ゼリー",
-        "くだもの"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20168,
       "show": "inai",
-      "title": "はみがきじょうずかな",
+      "title": "パジャマでおじゃま",
       "corner": "アニメ",
-      "date": "2026-08-06",
+      "date": "2026-08-11",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "歯磨き",
-        "はみがき",
-        "歯",
-        "お風呂",
-        "生活"
+        "パジャマ",
+        "着替え",
+        "おじゃま",
+        "寝る",
+        "準備"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -14606,7 +13941,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-06",
+      "date": "2026-08-11",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -14632,7 +13967,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-06",
+      "date": "2026-08-11",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -14659,7 +13994,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-05",
+      "date": "2026-08-10",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -14687,12 +14022,57 @@
     {
       "id": 20172,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "ハッピー・ジャムジャム",
       "corner": "うた",
-      "date": "2026-08-05",
+      "date": "2026-08-10",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
+      "fav": false,
+      "keywords": [
+        "ハッピー",
+        "ジャムジャム",
+        "楽しい",
+        "踊る"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20173,
+      "show": "inai",
+      "title": "せんたくじゃぶじゃぶ",
+      "corner": "うた",
+      "date": "2026-08-10",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "洗濯",
+        "せんたく",
+        "じゃぶじゃぶ",
+        "お手伝い",
+        "生活"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20174,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-10",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
       "fav": false,
       "keywords": [
         "食べる",
@@ -14708,81 +14088,34 @@
       "characters": []
     },
     {
-      "id": 20173,
-      "show": "inai",
-      "title": "ふたりはなかよし",
-      "corner": "うた",
-      "date": "2026-08-05",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
-      "id": 20174,
-      "show": "inai",
-      "title": "あくびがさいた",
-      "corner": "うた",
-      "date": "2026-08-05",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [
-        "あくび",
-        "眠い",
-        "朝",
-        "お昼寝",
-        "ふわっ"
-      ],
-      "mood": "優しい",
-      "snippet": "",
-      "subcategory": "",
-      "source_tag": "predicted",
-      "characters": []
-    },
-    {
       "id": 20175,
       "show": "inai",
-      "title": "ワンワンのほっかほっか",
+      "title": "はみがきじょうずかな",
       "corner": "アニメ",
-      "date": "2026-08-05",
+      "date": "2026-08-10",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
       "fav": false,
       "keywords": [
-        "ワンワン",
-        "あったかい",
-        "冬",
-        "ほっかほっか"
+        "歯磨き",
+        "はみがき",
+        "歯",
+        "お風呂",
+        "生活"
       ],
-      "mood": "優しい",
+      "mood": "楽しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
-      "characters": [
-        "ワンワン"
-      ]
+      "characters": []
     },
     {
       "id": 20176,
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-05",
+      "date": "2026-08-10",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -14808,7 +14141,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-05",
+      "date": "2026-08-10",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -14835,7 +14168,7 @@
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -14863,21 +14196,21 @@
     {
       "id": 20179,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -14886,19 +14219,19 @@
     {
       "id": 20180,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -14909,21 +14242,21 @@
     {
       "id": 20181,
       "show": "inai",
-      "title": "ふたりはなかよし",
+      "title": "いちにっ！せーの！",
       "corner": "うた",
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "仲良し",
-        "ともだち",
-        "二人",
-        "ふたり",
-        "友情"
+        "いちに",
+        "せーの",
+        "かけ声",
+        "号令",
+        "元気"
       ],
-      "mood": "優しい",
+      "mood": "元気",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
@@ -14934,7 +14267,7 @@
       "show": "inai",
       "title": "パジャマでおじゃま",
       "corner": "アニメ",
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -14957,7 +14290,7 @@
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -14983,7 +14316,7 @@
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-04",
+      "date": "2026-08-07",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -15006,11 +14339,11 @@
       ]
     },
     {
-      "id": 30000,
+      "id": 20185,
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "うた",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "airtime": "08:10",
       "offset": "",
       "order": 1,
@@ -15036,66 +14369,67 @@
       ]
     },
     {
-      "id": 30001,
+      "id": 20186,
       "show": "inai",
-      "title": "ハッピー・ジャムジャム",
+      "title": "ふたりはなかよし",
       "corner": "うた",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "airtime": "08:10",
       "offset": "",
       "order": 2,
       "fav": false,
       "keywords": [
-        "ハッピー",
-        "ジャムジャム",
-        "楽しい",
-        "踊る"
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
       "characters": []
     },
     {
-      "id": 30002,
+      "id": 20187,
       "show": "inai",
-      "title": "せんたくじゃぶじゃぶ",
+      "title": "あくびがさいた",
       "corner": "うた",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "airtime": "08:10",
       "offset": "",
       "order": 3,
       "fav": false,
       "keywords": [
-        "洗濯",
-        "せんたく",
-        "じゃぶじゃぶ",
-        "お手伝い",
-        "生活"
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
       ],
-      "mood": "楽しい",
+      "mood": "優しい",
       "snippet": "",
       "subcategory": "",
       "source_tag": "predicted",
       "characters": []
     },
     {
-      "id": 30003,
+      "id": 20188,
       "show": "inai",
-      "title": "たべるのだいすき",
+      "title": "フルーツ プルプル",
       "corner": "うた",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "airtime": "08:10",
       "offset": "",
       "order": 4,
       "fav": false,
       "keywords": [
-        "食べる",
-        "ごはん",
-        "好き",
-        "いただきます",
-        "食事"
+        "フルーツ",
+        "果物",
+        "プルプル",
+        "ゼリー",
+        "くだもの"
       ],
       "mood": "楽しい",
       "snippet": "",
@@ -15104,11 +14438,11 @@
       "characters": []
     },
     {
-      "id": 30004,
+      "id": 20189,
       "show": "inai",
       "title": "はみがきじょうずかな",
       "corner": "アニメ",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "airtime": "08:10",
       "offset": "",
       "order": 5,
@@ -15127,11 +14461,11 @@
       "characters": []
     },
     {
-      "id": 30005,
+      "id": 20190,
       "show": "inai",
       "title": "テトテトテトテトテ",
       "corner": "うた",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
       "airtime": "08:10",
       "offset": "",
       "order": 8,
@@ -15153,11 +14487,547 @@
       ]
     },
     {
-      "id": 30006,
+      "id": 20191,
       "show": "inai",
       "title": "おうえん！おぅ！おぅ！",
       "corner": "うた",
-      "date": "2026-08-03",
+      "date": "2026-08-06",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 9,
+      "fav": false,
+      "keywords": [
+        "応援",
+        "おうえん",
+        "おぅ",
+        "ED",
+        "エンディング",
+        "ワンワン",
+        "元気"
+      ],
+      "mood": "元気",
+      "snippet": "おうえん！おぅ！おぅ！",
+      "subcategory": "EDテーマ（2025年度〜）",
+      "source_tag": "predicted",
+      "characters": [
+        "ワンワン"
+      ]
+    },
+    {
+      "id": 20192,
+      "show": "inai",
+      "title": "ピカピカブ〜！",
+      "corner": "うた",
+      "date": "2026-08-05",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 1,
+      "fav": false,
+      "keywords": [
+        "ピカピカ",
+        "ピカブー",
+        "OP",
+        "オープニング",
+        "はじまり",
+        "ワンワン",
+        "おうちゃん",
+        "ぽぅぽ"
+      ],
+      "mood": "にぎやか",
+      "snippet": "ピカピカブ〜！",
+      "subcategory": "OPテーマ",
+      "source_tag": "predicted",
+      "characters": [
+        "おうちゃん",
+        "ぽぅぽ",
+        "ワンワン"
+      ]
+    },
+    {
+      "id": 20193,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-05",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 2,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20194,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-05",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
+      ],
+      "mood": "優しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20195,
+      "show": "inai",
+      "title": "あくびがさいた",
+      "corner": "うた",
+      "date": "2026-08-05",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
+      "fav": false,
+      "keywords": [
+        "あくび",
+        "眠い",
+        "朝",
+        "お昼寝",
+        "ふわっ"
+      ],
+      "mood": "優しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 20196,
+      "show": "inai",
+      "title": "ワンワンのほっかほっか",
+      "corner": "アニメ",
+      "date": "2026-08-05",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 5,
+      "fav": false,
+      "keywords": [
+        "ワンワン",
+        "あったかい",
+        "冬",
+        "ほっかほっか"
+      ],
+      "mood": "優しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": [
+        "ワンワン"
+      ]
+    },
+    {
+      "id": 20197,
+      "show": "inai",
+      "title": "テトテトテトテトテ",
+      "corner": "うた",
+      "date": "2026-08-05",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 8,
+      "fav": false,
+      "keywords": [
+        "テトテト",
+        "手",
+        "ふれあい",
+        "スキンシップ",
+        "ワンワン",
+        "手遊び"
+      ],
+      "mood": "にぎやか",
+      "snippet": "テトテト テトテトテ",
+      "subcategory": "2025年度〜のうた",
+      "source_tag": "predicted",
+      "characters": [
+        "ワンワン"
+      ]
+    },
+    {
+      "id": 20198,
+      "show": "inai",
+      "title": "おうえん！おぅ！おぅ！",
+      "corner": "うた",
+      "date": "2026-08-05",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 9,
+      "fav": false,
+      "keywords": [
+        "応援",
+        "おうえん",
+        "おぅ",
+        "ED",
+        "エンディング",
+        "ワンワン",
+        "元気"
+      ],
+      "mood": "元気",
+      "snippet": "おうえん！おぅ！おぅ！",
+      "subcategory": "EDテーマ（2025年度〜）",
+      "source_tag": "predicted",
+      "characters": [
+        "ワンワン"
+      ]
+    },
+    {
+      "id": 30000,
+      "show": "okaasan",
+      "title": "山の音楽家",
+      "corner": "うた",
+      "date": "2026-08-31",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 1,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 30001,
+      "show": "okaasan",
+      "title": "ファンターネ！",
+      "corner": "人形劇",
+      "date": "2026-08-31",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 2,
+      "fav": false,
+      "keywords": [
+        "ファンターネ",
+        "ファンタネ",
+        "人形劇",
+        "NHK Eテレ",
+        "おかあさんといっしょ",
+        "楽しい",
+        "にぎやか",
+        "ユーモア",
+        "キャラクター",
+        "ファンタジー",
+        "冒険"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "人形劇",
+      "source": "nhk",
+      "characters": [
+        "ファンターネ"
+      ]
+    },
+    {
+      "id": 30002,
+      "show": "okaasan",
+      "title": "こんなこいるかな",
+      "corner": "人形劇",
+      "date": "2026-08-31",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "こんなこいるかな",
+        "個性的",
+        "変わった子",
+        "ユニーク",
+        "おかあさんといっしょ",
+        "子ども向け",
+        "キャラクター",
+        "ユーモア",
+        "おかしい",
+        "変"
+      ],
+      "mood": "ユーモア",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "人形劇",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 30003,
+      "show": "okaasan",
+      "title": "ファンファンコロリンパ",
+      "corner": "うた",
+      "date": "2026-08-31",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 4,
+      "fav": false,
+      "keywords": [
+        "ファンファン",
+        "コロリンパ",
+        "ぴかぴか",
+        "キラキラ",
+        "楽しい",
+        "元気",
+        "ダンス",
+        "リズム",
+        "カラフル",
+        "かわいい"
+      ],
+      "mood": "楽しい",
+      "snippet": "ファンファンコロリンパ",
+      "snippets": [
+        "ファンファンコロリンパ"
+      ],
+      "theme": "カラフルで明るい世界を描いた、ダンスしたくなるような楽しくて元気な歌",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": [
+        "ファンファンコロリンパ"
+      ]
+    },
+    {
+      "id": 30004,
+      "show": "okaasan",
+      "title": "ぱくぱくるんるん",
+      "corner": "うた",
+      "date": "2026-08-31",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 5,
+      "fav": false,
+      "keywords": [
+        "ぱくぱく",
+        "食べる",
+        "るんるん",
+        "楽しい",
+        "食べ物",
+        "擬音",
+        "パクパク",
+        "ルンルン",
+        "食事",
+        "おいしい",
+        "元気"
+      ],
+      "mood": "楽しい",
+      "snippet": "ぱくぱくるんるん",
+      "snippets": [
+        "ぱくぱくるんるん",
+        "おいしくたべよう"
+      ],
+      "theme": "食べ物をおいしく食べる楽しさを、リズミカルな擬音で表現した元気でなつかしいコーナー",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": [
+        "ぱくぱくるんるん"
+      ]
+    },
+    {
+      "id": 30005,
+      "show": "okaasan",
+      "title": "からだ☆ダンダン",
+      "corner": "体操",
+      "date": "2026-08-31",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 6,
+      "fav": false,
+      "keywords": [
+        "からだダンダン",
+        "体操",
+        "ダンダン",
+        "元気",
+        "子ども体操",
+        "ダンス",
+        "からだ",
+        "運動",
+        "楽しい",
+        "おかあさんといっしょ"
+      ],
+      "mood": "元気",
+      "snippet": "からだ☆ダンダン",
+      "snippets": [
+        "からだ☆ダンダン",
+        "ダンダンダン"
+      ],
+      "theme": "身体を動かしながらダンスする、子どもたちの健やかな成長を応援する元気な体操の歌",
+      "subcategory": "体操",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 30006,
+      "show": "inai",
+      "title": "ピカピカブ〜！",
+      "corner": "うた",
+      "date": "2026-08-04",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 1,
+      "fav": false,
+      "keywords": [
+        "ピカピカ",
+        "ピカブー",
+        "OP",
+        "オープニング",
+        "はじまり",
+        "ワンワン",
+        "おうちゃん",
+        "ぽぅぽ"
+      ],
+      "mood": "にぎやか",
+      "snippet": "ピカピカブ〜！",
+      "subcategory": "OPテーマ",
+      "source_tag": "predicted",
+      "characters": [
+        "おうちゃん",
+        "ぽぅぽ",
+        "ワンワン"
+      ]
+    },
+    {
+      "id": 30007,
+      "show": "inai",
+      "title": "せんたくじゃぶじゃぶ",
+      "corner": "うた",
+      "date": "2026-08-04",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 2,
+      "fav": false,
+      "keywords": [
+        "洗濯",
+        "せんたく",
+        "じゃぶじゃぶ",
+        "お手伝い",
+        "生活"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 30008,
+      "show": "inai",
+      "title": "たべるのだいすき",
+      "corner": "うた",
+      "date": "2026-08-04",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [
+        "食べる",
+        "ごはん",
+        "好き",
+        "いただきます",
+        "食事"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 30009,
+      "show": "inai",
+      "title": "ふたりはなかよし",
+      "corner": "うた",
+      "date": "2026-08-04",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 4,
+      "fav": false,
+      "keywords": [
+        "仲良し",
+        "ともだち",
+        "二人",
+        "ふたり",
+        "友情"
+      ],
+      "mood": "優しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 30010,
+      "show": "inai",
+      "title": "パジャマでおじゃま",
+      "corner": "アニメ",
+      "date": "2026-08-04",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 5,
+      "fav": false,
+      "keywords": [
+        "パジャマ",
+        "着替え",
+        "おじゃま",
+        "寝る",
+        "準備"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "subcategory": "",
+      "source_tag": "predicted",
+      "characters": []
+    },
+    {
+      "id": 30011,
+      "show": "inai",
+      "title": "テトテトテトテトテ",
+      "corner": "うた",
+      "date": "2026-08-04",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 8,
+      "fav": false,
+      "keywords": [
+        "テトテト",
+        "手",
+        "ふれあい",
+        "スキンシップ",
+        "ワンワン",
+        "手遊び"
+      ],
+      "mood": "にぎやか",
+      "snippet": "テトテト テトテトテ",
+      "subcategory": "2025年度〜のうた",
+      "source_tag": "predicted",
+      "characters": [
+        "ワンワン"
+      ]
+    },
+    {
+      "id": 30012,
+      "show": "inai",
+      "title": "おうえん！おぅ！おぅ！",
+      "corner": "うた",
+      "date": "2026-08-04",
       "airtime": "08:10",
       "offset": "",
       "order": 9,
@@ -16952,86 +16822,6 @@
       "airtime": "08:10",
       "offset": "",
       "order": 4,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "体操",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 30000,
-      "show": "inai",
-      "title": "きんぎょのひるね",
-      "corner": "うた",
-      "date": "2026-08-03",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 1,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "うた",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 30001,
-      "show": "inai",
-      "title": "おうちゃんのかたち〜くも",
-      "corner": "アニメ",
-      "date": "2026-08-03",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 2,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "アニメ",
-      "source": "nhk",
-      "characters": [
-        "おうちゃん"
-      ]
-    },
-    {
-      "id": 30000,
-      "show": "inai",
-      "title": "おうちゃんのかたち～くも",
-      "corner": "アニメ",
-      "date": "2026-08-03",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 2,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "アニメ",
-      "source": "nhk",
-      "characters": [
-        "おうちゃん"
-      ]
-    },
-    {
-      "id": 30001,
-      "show": "inai",
-      "title": "ピカピカブ～！",
-      "corner": "体操",
-      "date": "2026-08-03",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
       "fav": false,
       "keywords": [],
       "mood": "",
