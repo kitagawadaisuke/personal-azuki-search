@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:25:51",
+  "generated_at": "2026-09-10T14:06:41",
   "source": "tokyofukubukuro.com weekly + NHK公式 (api.web.nhk)",
   "broadcast_meta": {
     "okaasan": {
@@ -188,8 +188,8 @@
         "source": "nhk"
       },
       "2026-09-10": {
-        "description": "広場でおともだちといっしょに歌うのは「おはよう！」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、アニメ「ルチータとスーハーフー」、おともだちのことをいっぱい知りたい「しりたガエルのけけちゃま」、生活習慣を歌で楽しく身につける「パジャマでおじゃま」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！\n---\n広場でおともだちといっしょに歌うのは「おはよう！」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、アニメ「ルチータとスーハーフー」、おともだちのことをいっぱい知りたい「しりたガエルのけけちゃま」、生活習慣を歌で楽しく身につける「パジャマでおじゃま」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！",
-        "episodeName": "おかあさんといっしょ　木曜日 / おかあさんといっしょ　木曜日",
+        "description": "広場でおともだちといっしょに歌うのは「おはよう！」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、アニメ「ルチータとスーハーフー」、おともだちのことをいっぱい知りたい「しりたガエルのけけちゃま」、生活習慣を歌で楽しく身につける「パジャマでおじゃま」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体を動かそう！",
+        "episodeName": "おかあさんといっしょ　木曜日",
         "tvEpisodeId": "BMVGTK98D1",
         "broadcastEventId": "e1-130-2026091012161",
         "startDate": "2026-09-10T07:45:00+09:00",
@@ -249,6 +249,14 @@
         "tvEpisodeId": "P1NJWEXN8Q",
         "broadcastEventId": "e1-130-2026091615665",
         "startDate": "2026-09-16T07:45:00+09:00",
+        "source": "nhk"
+      },
+      "2026-09-17": {
+        "description": "広場に遊びにきたおともだちといっしょに歌うのは「どんな色がすき」。みもも、やころ、ルチータのおはなし「ファンターネ！」や、アニメ「ももいろリズム」、「しりたガエルのけけちゃま」、生活習慣を歌で楽しく身につける「パジャマでおじゃま」も！お兄さんお姉さんといっしょに歌って踊って、「からだ☆ダンダン」で元気に体操しよう！",
+        "episodeName": "おかあさんといっしょ　木曜日",
+        "tvEpisodeId": "SVU2EG8PMU",
+        "broadcastEventId": "e1-130-2026091716159",
+        "startDate": "2026-09-17T07:45:00+09:00",
         "source": "nhk"
       }
     },
@@ -414,8 +422,8 @@
         "source": "nhk"
       },
       "2026-09-10": {
-        "description": "みんなは、おせんたく好き？ワンワンたちが、せんたくものでゲームをしたり、「せんたくじゃぶじゃぶ」を歌うよ。ワンワン合唱部の歌も完成！どんな歌声になったのかな？▼アニメ「ふしぎなともだちち～せんたくもの」、▼たいそう「ピカピカブ～！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。\n---\nみんなは、おせんたく好き？ワンワンたちが、せんたくものでゲームをしたり、「せんたくじゃぶじゃぶ」を歌うよ。ワンワン合唱部の歌も完成！どんな歌声になったのかな？▼アニメ「ふしぎなともだちち～せんたくもの」、▼たいそう「ピカピカブ～！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。",
-        "episodeName": "いないいないばあっ！　木曜日 / いないいないばあっ！　木曜日",
+        "description": "みんなは、おせんたく好き？ワンワンたちが、せんたくものでゲームをしたり、「せんたくじゃぶじゃぶ」を歌うよ。ワンワン合唱部の歌も完成！どんな歌声になったのかな？▼アニメ「ふしぎなともだちち～せんたくもの」、▼たいそう「ピカピカブ～！」など。「映像」と「音」で構成された、子どもたちの感覚を揺さぶるコーナーがいっぱい。お子さんと一緒にお楽しみください。",
+        "episodeName": "いないいないばあっ！　木曜日",
         "tvEpisodeId": "7WZL9Z5NK9",
         "broadcastEventId": "e1-130-2026091012164",
         "startDate": "2026-09-10T08:10:00+09:00",
@@ -451,6 +459,14 @@
         "tvEpisodeId": "KQZ1KMZW51",
         "broadcastEventId": "e1-130-2026091615668",
         "startDate": "2026-09-16T08:10:00+09:00",
+        "source": "nhk"
+      },
+      "2026-09-17": {
+        "description": "集まれ！のりもの大好きっ子。機関車、ロケット、ヘリコプター、気球。みんなは何が好き？ジャンジャンとワンワンが、すごい乗り物に乗るよ！ぽぅぽとうーたんは、虫の国でバッタに乗って競争だ！▼うた「でっかくなあれ」、▼まねっこぽん！～電車。映像と音で感覚を揺さぶることにより、子どものさまざまな可能性と能力を引き出します。お子さんといっしょにお楽しみください。",
+        "episodeName": "いないいないばあっ！　木曜日",
+        "tvEpisodeId": "JR252N1QY3",
+        "broadcastEventId": "e1-130-2026091716162",
+        "startDate": "2026-09-17T08:10:00+09:00",
         "source": "nhk"
       }
     }
@@ -9751,173 +9767,6 @@
     {
       "id": 20018,
       "show": "okaasan",
-      "title": "おはよう！",
-      "corner": "うた",
-      "date": "2026-09-10",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 7,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "うた",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 20019,
-      "show": "okaasan",
-      "title": "ファンターネ！",
-      "corner": "人形劇",
-      "date": "2026-09-10",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 8,
-      "fav": false,
-      "keywords": [
-        "ファンターネ",
-        "ファンタネ",
-        "人形劇",
-        "NHK Eテレ",
-        "おかあさんといっしょ",
-        "楽しい",
-        "にぎやか",
-        "ユーモア",
-        "キャラクター",
-        "ファンタジー",
-        "冒険"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "人形劇",
-      "source": "nhk",
-      "characters": [
-        "ファンターネ"
-      ]
-    },
-    {
-      "id": 20020,
-      "show": "okaasan",
-      "title": "ルチータとスーハーフー",
-      "corner": "アニメ",
-      "date": "2026-09-10",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 9,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "アニメ",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 20021,
-      "show": "okaasan",
-      "title": "しりたガエルのけけちゃま",
-      "corner": "うた",
-      "date": "2026-09-10",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 10,
-      "fav": false,
-      "keywords": [
-        "ガエル",
-        "カエル",
-        "けけちゃま",
-        "しりたガエル",
-        "好奇心",
-        "質問",
-        "なぜなぜ",
-        "元気",
-        "楽しい",
-        "子ども向け"
-      ],
-      "mood": "楽しい",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "うた",
-      "source": "nhk",
-      "characters": [
-        "けけちゃま"
-      ]
-    },
-    {
-      "id": 20022,
-      "show": "okaasan",
-      "title": "パジャマでおじゃま",
-      "corner": "うた",
-      "date": "2026-09-10",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 11,
-      "fav": false,
-      "keywords": [
-        "パジャマ",
-        "おじゃま",
-        "寝る前",
-        "子ども",
-        "楽しい",
-        "コーナー",
-        "いないいないばあっ",
-        "パジャマでおじゃま",
-        "夜",
-        "就寝前",
-        "ユーモア"
-      ],
-      "mood": "ユーモア",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "うた",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 20023,
-      "show": "okaasan",
-      "title": "からだ☆ダンダン",
-      "corner": "体操",
-      "date": "2026-09-10",
-      "airtime": "07:45",
-      "offset": "",
-      "order": 12,
-      "fav": false,
-      "keywords": [
-        "からだダンダン",
-        "体操",
-        "ダンダン",
-        "元気",
-        "子ども体操",
-        "ダンス",
-        "からだ",
-        "運動",
-        "楽しい",
-        "おかあさんといっしょ"
-      ],
-      "mood": "元気",
-      "snippet": "からだ☆ダンダン",
-      "snippets": [
-        "からだ☆ダンダン",
-        "ダンダンダン"
-      ],
-      "theme": "身体を動かしながらダンスする、子どもたちの健やかな成長を応援する元気な体操の歌",
-      "subcategory": "体操",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 20024,
-      "show": "okaasan",
       "title": "だいじなともだち",
       "corner": "うた",
       "date": "2026-09-11",
@@ -9935,7 +9784,7 @@
       "characters": []
     },
     {
-      "id": 20025,
+      "id": 20019,
       "show": "okaasan",
       "title": "ファンターネ！",
       "corner": "人形劇",
@@ -9968,7 +9817,7 @@
       ]
     },
     {
-      "id": 20026,
+      "id": 20020,
       "show": "okaasan",
       "title": "ファンキーマーキーチャンネル",
       "corner": "コーナー",
@@ -9990,7 +9839,7 @@
       ]
     },
     {
-      "id": 20027,
+      "id": 20021,
       "show": "okaasan",
       "title": "やぎさんゆうびん",
       "corner": "コーナー",
@@ -10025,7 +9874,7 @@
       "characters": []
     },
     {
-      "id": 20028,
+      "id": 20022,
       "show": "okaasan",
       "title": "おにさがしのうた",
       "corner": "うた",
@@ -10044,7 +9893,7 @@
       "characters": []
     },
     {
-      "id": 20029,
+      "id": 20023,
       "show": "okaasan",
       "title": "ドン！ドン！おかたづけ",
       "corner": "うた",
@@ -10077,7 +9926,7 @@
       "characters": []
     },
     {
-      "id": 20030,
+      "id": 20024,
       "show": "okaasan",
       "title": "からだ☆ダンダン",
       "corner": "体操",
@@ -10110,7 +9959,7 @@
       "characters": []
     },
     {
-      "id": 20031,
+      "id": 20025,
       "show": "okaasan",
       "title": "こんなこいるかな",
       "corner": "人形劇",
@@ -10140,7 +9989,7 @@
       "characters": []
     },
     {
-      "id": 20032,
+      "id": 20026,
       "show": "okaasan",
       "title": "ファンターネ！とうたおう",
       "corner": "うた",
@@ -10172,7 +10021,7 @@
       ]
     },
     {
-      "id": 20033,
+      "id": 20027,
       "show": "okaasan",
       "title": "おじいちゃんおばあちゃんといっしょ",
       "corner": "うた",
@@ -10191,7 +10040,7 @@
       "characters": []
     },
     {
-      "id": 20034,
+      "id": 20028,
       "show": "okaasan",
       "title": "やくめをおえてこのたび自由になりました団",
       "corner": "アニメ",
@@ -10218,7 +10067,7 @@
       "characters": []
     },
     {
-      "id": 20035,
+      "id": 20029,
       "show": "okaasan",
       "title": "からだ☆ダンダン",
       "corner": "体操",
@@ -10251,7 +10100,7 @@
       "characters": []
     },
     {
-      "id": 20036,
+      "id": 20030,
       "show": "okaasan",
       "title": "きみのなまえ",
       "corner": "うた",
@@ -10285,7 +10134,7 @@
       "characters": []
     },
     {
-      "id": 20037,
+      "id": 20031,
       "show": "okaasan",
       "title": "ファンターネ！",
       "corner": "人形劇",
@@ -10318,7 +10167,7 @@
       ]
     },
     {
-      "id": 20038,
+      "id": 20032,
       "show": "okaasan",
       "title": "こんなこいるかな",
       "corner": "人形劇",
@@ -10348,7 +10197,7 @@
       "characters": []
     },
     {
-      "id": 20039,
+      "id": 20033,
       "show": "okaasan",
       "title": "ファンファンコロリンパ",
       "corner": "うた",
@@ -10382,7 +10231,7 @@
       ]
     },
     {
-      "id": 20040,
+      "id": 20034,
       "show": "okaasan",
       "title": "ぱくぱくるんるん",
       "corner": "うた",
@@ -10418,7 +10267,7 @@
       ]
     },
     {
-      "id": 20041,
+      "id": 20035,
       "show": "okaasan",
       "title": "からだ☆ダンダン",
       "corner": "体操",
@@ -10451,7 +10300,7 @@
       "characters": []
     },
     {
-      "id": 20042,
+      "id": 20036,
       "show": "okaasan",
       "title": "おーい！",
       "corner": "うた",
@@ -10470,7 +10319,7 @@
       "characters": []
     },
     {
-      "id": 20043,
+      "id": 20037,
       "show": "okaasan",
       "title": "ファンターネ！",
       "corner": "人形劇",
@@ -10503,7 +10352,7 @@
       ]
     },
     {
-      "id": 20044,
+      "id": 20038,
       "show": "okaasan",
       "title": "こんなこいるかな",
       "corner": "人形劇",
@@ -10533,7 +10382,7 @@
       "characters": []
     },
     {
-      "id": 20045,
+      "id": 20039,
       "show": "okaasan",
       "title": "さすらえ！ポーズマン",
       "corner": "うた",
@@ -10554,7 +10403,7 @@
       ]
     },
     {
-      "id": 20046,
+      "id": 20040,
       "show": "okaasan",
       "title": "てーを！",
       "corner": "うた",
@@ -10586,7 +10435,7 @@
       "characters": []
     },
     {
-      "id": 20047,
+      "id": 20041,
       "show": "okaasan",
       "title": "からだ☆ダンダン",
       "corner": "体操",
@@ -10619,7 +10468,7 @@
       "characters": []
     },
     {
-      "id": 20048,
+      "id": 20042,
       "show": "okaasan",
       "title": "もしもしカメラ",
       "corner": "うた",
@@ -10647,7 +10496,7 @@
       "characters": []
     },
     {
-      "id": 20049,
+      "id": 20043,
       "show": "okaasan",
       "title": "ファンターネ！",
       "corner": "人形劇",
@@ -10680,7 +10529,7 @@
       ]
     },
     {
-      "id": 20050,
+      "id": 20044,
       "show": "okaasan",
       "title": "こんなこいるかな",
       "corner": "人形劇",
@@ -10710,7 +10559,7 @@
       "characters": []
     },
     {
-      "id": 20051,
+      "id": 20045,
       "show": "okaasan",
       "title": "おえかきクレッピー",
       "corner": "うた",
@@ -10743,7 +10592,7 @@
       ]
     },
     {
-      "id": 20052,
+      "id": 20046,
       "show": "okaasan",
       "title": "はみがきじょうずかな",
       "corner": "うた",
@@ -10778,11 +10627,178 @@
       "characters": []
     },
     {
-      "id": 20053,
+      "id": 20047,
       "show": "okaasan",
       "title": "からだ☆ダンダン",
       "corner": "体操",
       "date": "2026-09-16",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 6,
+      "fav": false,
+      "keywords": [
+        "からだダンダン",
+        "体操",
+        "ダンダン",
+        "元気",
+        "子ども体操",
+        "ダンス",
+        "からだ",
+        "運動",
+        "楽しい",
+        "おかあさんといっしょ"
+      ],
+      "mood": "元気",
+      "snippet": "からだ☆ダンダン",
+      "snippets": [
+        "からだ☆ダンダン",
+        "ダンダンダン"
+      ],
+      "theme": "身体を動かしながらダンスする、子どもたちの健やかな成長を応援する元気な体操の歌",
+      "subcategory": "体操",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20048,
+      "show": "okaasan",
+      "title": "どんな色がすき",
+      "corner": "うた",
+      "date": "2026-09-17",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 1,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20049,
+      "show": "okaasan",
+      "title": "ファンターネ！",
+      "corner": "人形劇",
+      "date": "2026-09-17",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 2,
+      "fav": false,
+      "keywords": [
+        "ファンターネ",
+        "ファンタネ",
+        "人形劇",
+        "NHK Eテレ",
+        "おかあさんといっしょ",
+        "楽しい",
+        "にぎやか",
+        "ユーモア",
+        "キャラクター",
+        "ファンタジー",
+        "冒険"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "人形劇",
+      "source": "nhk",
+      "characters": [
+        "ファンターネ"
+      ]
+    },
+    {
+      "id": 20050,
+      "show": "okaasan",
+      "title": "ももいろリズム",
+      "corner": "アニメ",
+      "date": "2026-09-17",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 3,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "アニメ",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20051,
+      "show": "okaasan",
+      "title": "しりたガエルのけけちゃま",
+      "corner": "うた",
+      "date": "2026-09-17",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 4,
+      "fav": false,
+      "keywords": [
+        "ガエル",
+        "カエル",
+        "けけちゃま",
+        "しりたガエル",
+        "好奇心",
+        "質問",
+        "なぜなぜ",
+        "元気",
+        "楽しい",
+        "子ども向け"
+      ],
+      "mood": "楽しい",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": [
+        "けけちゃま"
+      ]
+    },
+    {
+      "id": 20052,
+      "show": "okaasan",
+      "title": "パジャマでおじゃま",
+      "corner": "うた",
+      "date": "2026-09-17",
+      "airtime": "07:45",
+      "offset": "",
+      "order": 5,
+      "fav": false,
+      "keywords": [
+        "パジャマ",
+        "おじゃま",
+        "寝る前",
+        "子ども",
+        "楽しい",
+        "コーナー",
+        "いないいないばあっ",
+        "パジャマでおじゃま",
+        "夜",
+        "就寝前",
+        "ユーモア"
+      ],
+      "mood": "ユーモア",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20053,
+      "show": "okaasan",
+      "title": "からだ☆ダンダン",
+      "corner": "体操",
+      "date": "2026-09-17",
       "airtime": "07:45",
       "offset": "",
       "order": 6,
@@ -10908,44 +10924,6 @@
     {
       "id": 20059,
       "show": "inai",
-      "title": "ふしぎなともだちち～せんたくもの",
-      "corner": "アニメ",
-      "date": "2026-09-10",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 3,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "アニメ",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 20060,
-      "show": "inai",
-      "title": "ピカピカブ～！",
-      "corner": "体操",
-      "date": "2026-09-10",
-      "airtime": "08:10",
-      "offset": "",
-      "order": 4,
-      "fav": false,
-      "keywords": [],
-      "mood": "",
-      "snippet": "",
-      "snippets": [],
-      "theme": "",
-      "subcategory": "体操",
-      "source": "nhk",
-      "characters": []
-    },
-    {
-      "id": 20061,
-      "show": "inai",
       "title": "せんたくじゃぶじゃぶ",
       "corner": "うた",
       "date": "2026-09-11",
@@ -10963,7 +10941,7 @@
       "characters": []
     },
     {
-      "id": 20062,
+      "id": 20060,
       "show": "inai",
       "title": "どっきん　せみさん",
       "corner": "うた",
@@ -10982,7 +10960,7 @@
       "characters": []
     },
     {
-      "id": 20063,
+      "id": 20061,
       "show": "inai",
       "title": "おなかのへるうた",
       "corner": "うた",
@@ -11001,7 +10979,7 @@
       "characters": []
     },
     {
-      "id": 20064,
+      "id": 20062,
       "show": "inai",
       "title": "ぶうちゃんのおさんぽ",
       "corner": "アニメ",
@@ -11020,7 +10998,7 @@
       "characters": []
     },
     {
-      "id": 20065,
+      "id": 20063,
       "show": "inai",
       "title": "ピカピカブ〜！",
       "corner": "体操",
@@ -11049,7 +11027,7 @@
       ]
     },
     {
-      "id": 20066,
+      "id": 20064,
       "show": "inai",
       "title": "ピカピカブ～！",
       "corner": "コーナー",
@@ -11068,7 +11046,7 @@
       "characters": []
     },
     {
-      "id": 20067,
+      "id": 20065,
       "show": "inai",
       "title": "ワンワンのおえかき～不思議なお菓子屋さん",
       "corner": "コーナー",
@@ -11089,7 +11067,7 @@
       ]
     },
     {
-      "id": 20068,
+      "id": 20066,
       "show": "inai",
       "title": "ボールのたび",
       "corner": "コーナー",
@@ -11108,7 +11086,7 @@
       "characters": []
     },
     {
-      "id": 20069,
+      "id": 20067,
       "show": "inai",
       "title": "ゆうやけこやけ",
       "corner": "うた",
@@ -11127,7 +11105,7 @@
       "characters": []
     },
     {
-      "id": 20070,
+      "id": 20068,
       "show": "inai",
       "title": "ピカピカブ～！",
       "corner": "コーナー",
@@ -11146,7 +11124,7 @@
       "characters": []
     },
     {
-      "id": 20071,
+      "id": 20069,
       "show": "inai",
       "title": "でっかくなあれ",
       "corner": "うた",
@@ -11165,7 +11143,7 @@
       "characters": []
     },
     {
-      "id": 20072,
+      "id": 20070,
       "show": "inai",
       "title": "やぎさんゆうびん",
       "corner": "うた",
@@ -11200,7 +11178,7 @@
       "characters": []
     },
     {
-      "id": 20073,
+      "id": 20071,
       "show": "inai",
       "title": "まねっこぽん！～ヤギ",
       "corner": "コーナー",
@@ -11208,6 +11186,44 @@
       "airtime": "08:10",
       "offset": "",
       "order": 3,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "コーナー",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20072,
+      "show": "inai",
+      "title": "でっかくなあれ",
+      "corner": "うた",
+      "date": "2026-09-17",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 1,
+      "fav": false,
+      "keywords": [],
+      "mood": "",
+      "snippet": "",
+      "snippets": [],
+      "theme": "",
+      "subcategory": "うた",
+      "source": "nhk",
+      "characters": []
+    },
+    {
+      "id": 20073,
+      "show": "inai",
+      "title": "まねっこぽん！～電車",
+      "corner": "コーナー",
+      "date": "2026-09-17",
+      "airtime": "08:10",
+      "offset": "",
+      "order": 2,
       "fav": false,
       "keywords": [],
       "mood": "",
